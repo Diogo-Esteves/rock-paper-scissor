@@ -1,5 +1,5 @@
 # Diogo-Esteves studying html-css-js
-rock-paper-scissor.github.io
+https://diogo-esteves.github.io/rock-paper-scissor/
 
 In proposal of learning web development.
 
